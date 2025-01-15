@@ -1,1 +1,1 @@
-# PUC
+# PUC-LAB-MANUAL
